@@ -1,0 +1,26 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Variables de entorno / credenciales
+.env
+config.yaml
+secrets.json
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/tomtom_traffic.csv
+
+tomtom_traffic.csv
