@@ -95,5 +95,7 @@ jupyter notebook notebooks/mobility_economy_project.ipynb
 
 ## 👤 Autor
 
-**Tu Nombre**
-[LinkedIn](https://linkedin.com/in/tu-usuario) · [Portafolio](https://tu-portafolio.com)
+**Martha Nardeth Martínez**
+
+
+[LinkedIn](www.linkedin.com/in/nardeth-martinez-rodriguez) · [Portafolio](https://nardusmar.github.io/)
