@@ -4,7 +4,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.0-150458?logo=pandas)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualizaci%C3%B3n-3776AB)
 ![Status](https://img.shields.io/badge/Status-Completado-brightgreen)
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ql_YBb25-E8BKXHIK_dfl9ZepVNpBLCl/view?usp=sharing)
 ## 📌 Descripción del proyecto
 
 Análisis que evalúa cómo la **movilidad urbana** (congestión, tiempos de traslado) se relaciona
