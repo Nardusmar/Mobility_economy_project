@@ -46,7 +46,8 @@ Latinoamérica y el mundo, combinando datos de tráfico en tiempo real con indic
 
 ## 📈 Hallazgos clave
 
-![Comparativa tráfico vs PIB](img/comparativa_trafico_pib.png)
+![Comparativa tráfico vs PIB](img/comparativa_trafico_pib.png) <img width="589" height="542" alt="image" src="https://github.com/user-attachments/assets/6e66a0e0-ed80-4377-af8a-fdcb5e57b6d9" />
+
 
 - 🔑 **No existe una relación lineal directa** entre movilidad urbana y productividad económica —
   el patrón observado es más bien de **"desarrollo desigual"** que de correlación simple
